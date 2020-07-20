@@ -1,2 +1,2 @@
-# TubesPT1
-Final Exam Pemrograman Struktur Aplikasi Penjualan dengan Bahasa C
+# Repository for Final Exam Pemrograman Struktur 1
+Aplikasi Penjualan dengan Bahasa C
