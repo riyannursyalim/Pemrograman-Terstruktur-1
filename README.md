@@ -1,4 +1,4 @@
-# Repository for Final Exam Pemrograman Struktur 1
+# Repository for Final Exam Pemrograman Terstruktur 1
 
 Membuat Aplikasi Penjualan menggunakan Bahasa C
 
