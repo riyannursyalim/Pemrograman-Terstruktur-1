@@ -3,5 +3,5 @@
 Membuat Aplikasi Penjualan menggunakan Bahasa C
 
 # Requirement :
-IDE       : CodeBlock
-Compiler  : GNU GCC Compiler
+1. IDE       : CodeBlock
+2. Compiler  : GNU GCC Compiler
